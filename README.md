@@ -12,7 +12,8 @@ You can click the Preview link to take a look at your changes.
 
 ![Most Used Languages](./profile/top-langs.svg)
 
+<!---
 ### GitHub Stats
 
 ![GitHub Stats](./profile/stats.svg)
-
+--->
